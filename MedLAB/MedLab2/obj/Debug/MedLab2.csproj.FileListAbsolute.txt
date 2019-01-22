@@ -1,0 +1,187 @@
+C:\My Documents\Visual Studio 2008\Projects\MedLab2\MedLab2\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\Visual Studio 2008\Projects\MedLab2\MedLab2\obj\Debug\MedLab2.MainForm.resources
+C:\My Documents\Visual Studio 2008\Projects\MedLab2\MedLab2\obj\Debug\MedLab2.csproj.GenerateResource.Cache
+C:\My Documents\Visual Studio 2008\Projects\MedLab2\MedLab2\bin\Debug\MedLab2.exe
+C:\My Documents\Visual Studio 2008\Projects\MedLab2\MedLab2\bin\Debug\MedLab2.pdb
+C:\My Documents\Visual Studio 2008\Projects\MedLab2\MedLab2\obj\Debug\MedLab2.exe
+C:\My Documents\Visual Studio 2008\Projects\MedLab2\MedLab2\obj\Debug\MedLab2.pdb
+C:\My Documents\Visual Studio 2008\Projects\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_nume.resources
+C:\My Documents\Visual Studio 2008\Projects\MedLab2\MedLab2\obj\Debug\MedLab2.Properties.Resources.resources
+C:\My Documents\Visual Studio 2008\Projects\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_cnp.resources
+C:\My Documents\Visual Studio 2008\Projects\MedLab2\MedLab2\obj\Debug\MedLab2.RezultateleCautarii.resources
+C:\My Documents\Visual Studio 2008\Projects\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_ID.resources
+C:\My Documents\Visual Studio 2008\Projects\MedLab2\MedLab2\obj\Debug\MedLab2.Stergere_pacienti.resources
+C:\My Documents\Visual Studio 2008\Projects\MedLab2\MedLab2\obj\Debug\MedLab2.About_MedLab.resources
+C:\My Documents\Visual Studio 2008\Projects\MedLab2\MedLab2\obj\Debug\MedLab2.AboutBox1.resources
+C:\My Documents\Visual Studio 2008\Projects\MedLab2\MedLab2\obj\Debug\MedLab2.SuportTehnic.resources
+C:\My Documents\Visual Studio 2008\Projects\MedLab2\MedLab2\bin\Debug\DevComponents.DotNetBar2.dll
+F:\MedLab2\MedLab2\obj\Debug\MedLab2.exe
+F:\MedLab2\MedLab2\obj\Debug\MedLab2.pdb
+F:\MedLab2\MedLab2\obj\Debug\ResolveAssemblyReference.cache
+F:\MedLab2\MedLab2\obj\Debug\MedLab2.About_MedLab.resources
+F:\MedLab2\MedLab2\obj\Debug\MedLab2.AboutBox1.resources
+F:\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_cnp.resources
+F:\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_nume.resources
+F:\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_ID.resources
+F:\MedLab2\MedLab2\obj\Debug\MedLab2.Properties.Resources.resources
+F:\MedLab2\MedLab2\obj\Debug\MedLab2.RezultateleCautarii.resources
+F:\MedLab2\MedLab2\obj\Debug\MedLab2.Stergere_pacienti.resources
+F:\MedLab2\MedLab2\obj\Debug\MedLab2.SuportTehnic.resources
+F:\MedLab2\MedLab2\obj\Debug\MedLab2.csproj.GenerateResource.Cache
+F:\MedLab2\MedLab2\bin\Debug\MedLab2.exe
+F:\MedLab2\MedLab2\bin\Debug\MedLab2.pdb
+F:\MedLab2\MedLab2\bin\Debug\DevComponents.DotNetBar2.dll
+F:\MedLab2\MedLab2\obj\Debug\MedLab2.MainForm.resources
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.exe
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.pdb
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\bin\Debug\MedLab2.exe
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\bin\Debug\MedLab2.pdb
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\bin\Debug\DevComponents.DotNetBar2.dll
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\ResolveAssemblyReference.cache
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.About_MedLab.resources
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.AboutBox1.resources
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_cnp.resources
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_nume.resources
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_ID.resources
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.MainForm.resources
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Properties.Resources.resources
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.RezultateleCautarii.resources
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Stergere_pacienti.resources
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.SuportTehnic.resources
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.csproj.GenerateResource.Cache
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Autentificare.resources
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.AdaugareUtilizator.resources
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.StergereUtilizator.resources
+D:\MyDocuments\Cursuri\AN1\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.SchimbareParolaUtilizator.resources
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.exe
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.pdb
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\bin\Debug\MedLab2.exe
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\bin\Debug\MedLab2.pdb
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.About_MedLab.resources
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.AboutBox1.resources
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.AdaugareUtilizator.resources
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_cnp.resources
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_nume.resources
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_ID.resources
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Autentificare.resources
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.MainForm.resources
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Properties.Resources.resources
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.RezultateleCautarii.resources
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.SchimbareParolaUtilizator.resources
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.StergereUtilizator.resources
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Stergere_pacienti.resources
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.SuportTehnic.resources
+C:\Documents and Settings\Mihai Dumitrescu\Desktop\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.csproj.GenerateResource.Cache
+F:\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.exe
+F:\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.pdb
+F:\sesiune_comunicari\MedLab2\MedLab2\bin\Debug\MedLab2.exe
+F:\sesiune_comunicari\MedLab2\MedLab2\bin\Debug\MedLab2.pdb
+F:\sesiune_comunicari\MedLab2\MedLab2\bin\Debug\DevComponents.DotNetBar2.dll
+F:\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\ResolveAssemblyReference.cache
+F:\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.About_MedLab.resources
+F:\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.AboutBox1.resources
+F:\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.AdaugareUtilizator.resources
+F:\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_cnp.resources
+F:\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_nume.resources
+F:\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_ID.resources
+F:\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Autentificare.resources
+F:\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.MainForm.resources
+F:\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Properties.Resources.resources
+F:\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.RezultateleCautarii.resources
+F:\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.SchimbareParolaUtilizator.resources
+F:\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.StergereUtilizator.resources
+F:\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Stergere_pacienti.resources
+F:\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.SuportTehnic.resources
+F:\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.csproj.GenerateResource.Cache
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.exe
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.pdb
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\bin\Debug\MedLab2.exe
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\bin\Debug\MedLab2.pdb
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\bin\Debug\DevComponents.DotNetBar2.dll
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\ResolveAssemblyReference.cache
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.About_MedLab.resources
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.AboutBox1.resources
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.AdaugareUtilizator.resources
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_cnp.resources
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_nume.resources
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_ID.resources
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Autentificare.resources
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.MainForm.resources
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Properties.Resources.resources
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.RezultateleCautarii.resources
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.SchimbareParolaUtilizator.resources
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.StergereUtilizator.resources
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.Stergere_pacienti.resources
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\MedLab2.SuportTehnic.resources
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\GenerateResource.read.1.tlog
+D:\MyDocuments\Cursuri\AN1_FILS\Sem2\sesiune_comunicari\MedLab2\MedLab2\obj\Debug\GenerateResource.write.1.tlog
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\obj\Debug\MedLab2.exe
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\obj\Debug\MedLab2.pdb
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\bin\Debug\MedLab2.exe
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\bin\Debug\MedLab2.pdb
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\bin\Debug\DevComponents.DotNetBar2.dll
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\obj\Debug\ResolveAssemblyReference.cache
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\obj\Debug\MedLab2.About_MedLab.resources
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\obj\Debug\MedLab2.AboutBox1.resources
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\obj\Debug\MedLab2.AdaugareUtilizator.resources
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_cnp.resources
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_nume.resources
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_ID.resources
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\obj\Debug\MedLab2.Autentificare.resources
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\obj\Debug\MedLab2.MainForm.resources
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\obj\Debug\MedLab2.Properties.Resources.resources
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\obj\Debug\MedLab2.RezultateleCautarii.resources
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\obj\Debug\MedLab2.SchimbareParolaUtilizator.resources
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\obj\Debug\MedLab2.StergereUtilizator.resources
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\obj\Debug\MedLab2.Stergere_pacienti.resources
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\obj\Debug\MedLab2.SuportTehnic.resources
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\obj\Debug\GenerateResource.read.1.tlog
+D:\MyDocuments\Cursuri\MyProjects\MedLab2\MedLab2\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\evelina\Desktop\MedLab2\MedLab2\obj\Debug\MedLab2.exe
+C:\Users\evelina\Desktop\MedLab2\MedLab2\obj\Debug\MedLab2.pdb
+C:\Users\evelina\Desktop\MedLab2\MedLab2\bin\Debug\MedLab2.exe
+C:\Users\evelina\Desktop\MedLab2\MedLab2\bin\Debug\MedLab2.pdb
+C:\Users\evelina\Desktop\MedLab2\MedLab2\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\evelina\Desktop\MedLab2\MedLab2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\evelina\Desktop\MedLab2\MedLab2\obj\Debug\MedLab2.About_MedLab.resources
+C:\Users\evelina\Desktop\MedLab2\MedLab2\obj\Debug\MedLab2.AboutBox1.resources
+C:\Users\evelina\Desktop\MedLab2\MedLab2\obj\Debug\MedLab2.AdaugareUtilizator.resources
+C:\Users\evelina\Desktop\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_cnp.resources
+C:\Users\evelina\Desktop\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_nume.resources
+C:\Users\evelina\Desktop\MedLab2\MedLab2\obj\Debug\MedLab2.Cautare_ID.resources
+C:\Users\evelina\Desktop\MedLab2\MedLab2\obj\Debug\MedLab2.Autentificare.resources
+C:\Users\evelina\Desktop\MedLab2\MedLab2\obj\Debug\MedLab2.MainForm.resources
+C:\Users\evelina\Desktop\MedLab2\MedLab2\obj\Debug\MedLab2.Properties.Resources.resources
+C:\Users\evelina\Desktop\MedLab2\MedLab2\obj\Debug\MedLab2.RezultateleCautarii.resources
+C:\Users\evelina\Desktop\MedLab2\MedLab2\obj\Debug\MedLab2.SchimbareParolaUtilizator.resources
+C:\Users\evelina\Desktop\MedLab2\MedLab2\obj\Debug\MedLab2.StergereUtilizator.resources
+C:\Users\evelina\Desktop\MedLab2\MedLab2\obj\Debug\MedLab2.Stergere_pacienti.resources
+C:\Users\evelina\Desktop\MedLab2\MedLab2\obj\Debug\MedLab2.SuportTehnic.resources
+C:\Users\evelina\Desktop\MedLab2\MedLab2\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\evelina\Desktop\MedLab2\MedLab2\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\bin\Debug\MedLab2.exe
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\bin\Debug\MedLab2.pdb
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\obj\Debug\MedLab2.About_MedLab.resources
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\obj\Debug\MedLab2.AboutBox1.resources
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\obj\Debug\MedLab2.AdaugareUtilizator.resources
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\obj\Debug\MedLab2.Cautare_cnp.resources
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\obj\Debug\MedLab2.Cautare_nume.resources
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\obj\Debug\MedLab2.Cautare_ID.resources
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\obj\Debug\MedLab2.Autentificare.resources
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\obj\Debug\MedLab2.MainForm.resources
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\obj\Debug\MedLab2.Properties.Resources.resources
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\obj\Debug\MedLab2.RezultateleCautarii.resources
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\obj\Debug\MedLab2.SchimbareParolaUtilizator.resources
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\obj\Debug\MedLab2.StergereUtilizator.resources
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\obj\Debug\MedLab2.Stergere_pacienti.resources
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\obj\Debug\MedLab2.SuportTehnic.resources
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\obj\Debug\MedLab2.csproj.GenerateResource.cache
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\obj\Debug\MedLab2.csproj.CoreCompileInputs.cache
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\obj\Debug\MedLab2.csproj.CopyComplete
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\obj\Debug\MedLab2.exe
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\obj\Debug\MedLab2.pdb
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\bin\Debug\MedLab2.exe.CodeAnalysisLog.xml
+C:\Users\Larry\Desktop\MedLAB-master\MedLab2\bin\Debug\MedLab2.exe.lastcodeanalysissucceeded

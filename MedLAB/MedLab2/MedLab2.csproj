@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{998D92A1-7B0B-4B29-9072-DB343B61C97B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MedLab2</RootNamespace>
+    <AssemblyName>MedLab2</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>http://localhost/MedLab2/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=7.7.0.2, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=4.0.2.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About MedLab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About MedLab.Designer.cs">
+      <DependentUpon>About MedLab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AboutBox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox1.Designer.cs">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdaugareUtilizator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdaugareUtilizator.Designer.cs">
+      <DependentUpon>AdaugareUtilizator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cautare_cnp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cautare_cnp.Designer.cs">
+      <DependentUpon>Cautare_cnp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cautare_nume.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cautare_nume.Designer.cs">
+      <DependentUpon>Cautare_nume.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cautare_ID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cautare_ID.Designer.cs">
+      <DependentUpon>Cautare_ID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalSuppressions.cs" />
+    <Compile Include="GmailSender.cs" />
+    <Compile Include="Autentificare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Autentificare.Designer.cs">
+      <DependentUpon>Autentificare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PDFWriter1.cs" />
+    <Compile Include="Print.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RezultateleCautarii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RezultateleCautarii.Designer.cs">
+      <DependentUpon>RezultateleCautarii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SchimbareParolaUtilizator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SchimbareParolaUtilizator.Designer.cs">
+      <DependentUpon>SchimbareParolaUtilizator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StergereUtilizator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StergereUtilizator.Designer.cs">
+      <DependentUpon>StergereUtilizator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stergere_pacienti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stergere_pacienti.Designer.cs">
+      <DependentUpon>Stergere_pacienti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SuportTehnic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="About MedLab.resx">
+      <DependentUpon>About MedLab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdaugareUtilizator.resx">
+      <DependentUpon>AdaugareUtilizator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cautare_cnp.resx">
+      <DependentUpon>Cautare_cnp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cautare_nume.resx">
+      <DependentUpon>Cautare_nume.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cautare_ID.resx">
+      <DependentUpon>Cautare_ID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Autentificare.resx">
+      <DependentUpon>Autentificare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RezultateleCautarii.resx">
+      <DependentUpon>RezultateleCautarii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SchimbareParolaUtilizator.resx">
+      <DependentUpon>SchimbareParolaUtilizator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StergereUtilizator.resx">
+      <DependentUpon>StergereUtilizator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stergere_pacienti.resx">
+      <DependentUpon>Stergere_pacienti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuportTehnic.resx">
+      <DependentUpon>SuportTehnic.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\utilizatori2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\adaugare.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\stergere.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\New Images\remove-user.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\Calc.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\Word.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\Excel.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\OutLook.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\PowerPoint.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DevComponents.DotNetBar2.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\DevComponents.DotNetBar2.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\Find.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\Find.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Find-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\Find-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\New Images\remove-user - Copy.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\Find2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\New Images\remove-user2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\New Images\add-user - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\New Images\edit-user 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\New Images\ReflectionImage2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\New Images\HelpIcon 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\New Images\ReflectionImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\Mail.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\New Images\Find-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\New Images\LogIn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\New Images\add_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\New Images\edit_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\New Images\icon_time_to_market.jpg" />
+  </ItemGroup>
+</Project>
